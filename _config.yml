@@ -35,7 +35,7 @@ repository: yundem.github.com
 # örneğin http://roktas.github.com/test olabilir.  fakat bu durumda
 # kurulumdan sonra "master" dalını "gh-pages" dalına birleştirmelisiniz.
 # 	git checkout -b gh-pages
-url: http://yundem.net
+url: ~
 
 # site görünümüne ilişkin olarak sitede mutlak adres yoluyla herhangi bir
 # sayfadan erişilebilecek ortak "dijital varlıklar"ın (ör. logolar) adresi.
@@ -71,7 +71,7 @@ param:
         # twitter adresi (ör. http://19.status.net/roktas)
         twitter: http://19.status.net/yundem
         # flick adresi (ör. http://flickr.com/photos/roktas)
-        flickr: http://flickr.com/photos/yundem
+        flickr: ~
         # facebook adresi (ör. http://facebook.com/roktas)
         facebook: http://facebook.com/yundem
         # özet akışı adresi (ör. http://feeds.feedburner.com/roktas)
