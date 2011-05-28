@@ -1,0 +1,73 @@
+---
+layout: nil
+---
+
+/* 
+ * =============================================================================
+ * Siteye özel Baz CSS
+ * =============================================================================
+ */
+
+body {
+background-color: none;
+background-image:url('')
+}
+a:link {
+	color: #1F384B;
+	text-decoration: none;
+}
+a:visited {
+	color: #1F384B;
+	text-decoration: none;
+}
+a:hover {
+	color: #C5010B;
+	text-decoration: none;
+}
+a:active {
+	color: #C5010B;
+	text-decoration: none;
+}
+.ribbon {
+background-color: #FFFFFF;
+}
+.ribbon a {
+border: 1px solid #1C122D;
+}
+#navtop {
+  background-image:url('../chrome/huruf/star-red-32.png');
+  display:inline-block;
+  width:32px;
+  height:32px;
+  margin-right:3em;
+}
+#navactive0 {
+  background-image:url('../chrome/huruf/0-grey-32.png');
+  display:inline-block;
+  width: 32px;
+  height: 32px;
+}
+#navactive1 {
+  background-image:url('../chrome/huruf/1-grey-32-negative.png');
+  display:inline-block;
+  width: 32px;
+  height: 32px;
+}
+#navactive2 {
+  background-image:url('../chrome/huruf/2-red-32.png');
+  display:inline-block;
+  width: 32px;
+  height: 32px;
+}
+#navactive7 {
+  background-image:url('../chrome/huruf/7-red-32-negative.png');
+  display:inline-block;
+  width: 32px;
+  height: 32px;
+}
+#navactive9 {
+  background-image:url('../chrome/huruf/9-32.png');
+  display:inline-block;
+  width: 32px;
+  height: 32px;
+}
