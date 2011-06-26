@@ -7,7 +7,7 @@ merhaba dünya
 
 `7`
 
-    def merhaba();
+    def merhaba():
         print "merhaba!"
 
 **yunus demiryürek**
