@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sayfanda görünmesini istediğin başlık
+title: GNU Gettext ne işe yarar ? .po ve .mo uzantılı dosyalar 
 ---
 
 GNU Gettext , .mo ve .po uzantılı dosyalar nedir?
