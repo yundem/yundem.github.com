@@ -19,7 +19,7 @@ Açık kaynak dünyası bize bu konuda GNU Gettext’i sunmuştur. GNU Gettext b
 Gettext anahtarı alıp ,bu anahtarı çevirisi yapılmış metinlerle karşılaştırıp çeviriyi bulup bize sunamktadır.
 Gettex’te kullanmak üzere , uygulamayı oluşturduğumuz dilden farklı bir dilde yazılan mesajlar .mo uzantılı dosyalarda tutulurlar. .mo dosyaları .po dosyalarından oluşmaktadır. Şimdi bu dosyaları açıklayalım.
 
-.mo ve .po dosyaları 
+**.mo ve .po dosyaları** 
 
 .mo dosyaları (genelde PHP sistemlerin) dil dosyalarının hazırlanmış halidir. .mo dosyalarını herhangi bir programla (notepad , word , dreamweaver..) açmak mümkün değildir , çünkü .mo dosyaları derlenmiş (binary tabanlı) dosyalardır.
 
