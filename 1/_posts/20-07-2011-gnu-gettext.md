@@ -10,7 +10,7 @@ Peki bu nasıl sağlanır?
 Açık kaynak dünyası bize bu konuda GNU Gettext’i sunmuştur. GNU Gettext bir çeviri kütüphanesidir. Biraz daha açmak gerekirse ; GNU Gettext bize dil desteği sağlar ve PHP uygulamalarımızı ulusallaştırmak için kullanacağımız Yerel Dil Desteği arayüzünü gerçekler. Oluşturulan bu arayüz hem kullanıcıya hemde programcıya büyük olanak sağlamaktadır.
 
  Gettext’te , 
-'msgid' anahtarı ve  'msgstr' çevirisi yapılmış metin vardır .
+msgid anahtarı ve    msgstr    çevirisi yapılmış metin vardır .
 
     msgid “hello world”
 
