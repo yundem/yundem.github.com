@@ -9,8 +9,9 @@ Peki bu nasıl sağlanır?
 
 Açık kaynak dünyası bize bu konuda GNU Gettext’i sunmuştur. GNU Gettext bir çeviri kütüphanesidir. Biraz daha açmak gerekirse ; GNU Gettext bize dil desteği sağlar ve PHP uygulamalarımızı ulusallaştırmak için kullanacağımız Yerel Dil Desteği arayüzünü gerçekler. Oluşturulan bu arayüz hem kullanıcıya hemde programcıya büyük olanak sağlamaktadır.
 
- Gettext’te , 
-msgid anahtarı ve    msgstr    çevirisi yapılmış metin vardır .
+ Gettext’te ,
+ 
+'msgid' anahtarı ve    msgstr    çevirisi yapılmış metin vardır .
 
     msgid “hello world”
 
@@ -28,6 +29,6 @@ Gettex’te kullanmak üzere , uygulamayı oluşturduğumuz dilden farklı bir d
 Örneğin :
 Elimizde Türkçe tr_TR.po dosyası olsun , farklı bir dile çevirmek için (mesela ingilizce olsun, en_EN) tr_TR.po dosyasını açıp gereklü düzenlemeyi yapıp kaydedince(derleyince) tr_TR.mo diye uzantı değişir. Elimizdeki bu .mo dosyasının adını en_EN.mo diye değiştirip ilgili dizine atmalıyız. Daha sonra dil değerimizi en_EN yaptığımız zaman dili ingilizceye çevirmiş oluruz. Bu işlemi bir derleyicide kod yazmayla ilişkilendirirsek tr_TR.po dosyası derleyicide yazdığımız koddur, kaynaktır. tr_TR.mo ise derleyici tarafından derlemiş olduğumuz koddur yani üründür.
 
-“Bir dil bir insan , iki dil iki insan ':-)'”
+“Bir dil bir insan , iki dil iki insan :-)”
 
 
